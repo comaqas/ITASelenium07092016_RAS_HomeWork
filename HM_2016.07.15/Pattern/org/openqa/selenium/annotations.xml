@@ -1,0 +1,5 @@
+<root>
+  <item name='org.openqa.selenium.WebDriver java.lang.String getTitle()'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>

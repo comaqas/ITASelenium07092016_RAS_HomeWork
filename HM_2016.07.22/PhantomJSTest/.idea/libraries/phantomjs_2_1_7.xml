@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="phantomjs-2.1.7">
+    <CLASSES>
+      <root url="jar://C:/phantomjsJAR/phantomjs-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://C:/phantomjsJAR/phantomjs-2.1.7.jar!/" recursive="false" />
+  </library>
+</component>

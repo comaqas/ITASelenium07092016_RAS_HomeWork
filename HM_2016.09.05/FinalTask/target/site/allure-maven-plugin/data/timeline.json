@@ -1,0 +1,130 @@
+{
+  "hosts" : [ {
+    "title" : "WIN-31VA3KNSDRQ",
+    "threads" : [ {
+      "title" : "7048@WIN-31VA3KNSDRQ.main(1)",
+      "testCases" : [ {
+        "uid" : "aae7c7975dcb491e",
+        "name" : "searchWomenBlouseTest",
+        "title" : "Search women blouse test",
+        "time" : {
+          "start" : 1472752509563,
+          "stop" : 1472752527654,
+          "duration" : 18091
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "215e08d455a7a610",
+        "name" : "searchWomenTshortsTest",
+        "title" : "Search women tshorts test",
+        "time" : {
+          "start" : 1472752527686,
+          "stop" : 1472752544350,
+          "duration" : 16664
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "8445e1691971227",
+        "name" : "shareProductWithFriendTest",
+        "title" : "Share product with friend test",
+        "time" : {
+          "start" : 1472752544354,
+          "stop" : 1472752567458,
+          "duration" : 23104
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4a907b187abf5397",
+        "name" : "creatingNewWishListTest",
+        "title" : "Creating new wish list test",
+        "time" : {
+          "start" : 1472752567473,
+          "stop" : 1472752606614,
+          "duration" : 39141
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2e4ed079054b86d6",
+        "name" : "failedChangeUserInformationTest",
+        "title" : "Failed change user information test",
+        "time" : {
+          "start" : 1472752606619,
+          "stop" : 1472752632810,
+          "duration" : 26191
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "895b3a1cb0b249e0",
+        "name" : "registrationTest",
+        "title" : "Registration test",
+        "time" : {
+          "start" : 1472752632816,
+          "stop" : 1472752658131,
+          "duration" : 25315
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4d8e7078914b2984",
+        "name" : "failedToSendMessageTest",
+        "title" : "Failed to send message test",
+        "time" : {
+          "start" : 1472752658139,
+          "stop" : 1472752674941,
+          "duration" : 16802
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "3a81379ac1d09a4b",
+        "name" : "sendMessageTest",
+        "title" : "Send message test",
+        "time" : {
+          "start" : 1472752674945,
+          "stop" : 1472752691625,
+          "duration" : 16680
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5b83983aa6e505b8",
+        "name" : "DeleteItemFromShoppingCartTest",
+        "title" : "Delete item from shopping cart test",
+        "time" : {
+          "start" : 1472752691639,
+          "stop" : 1472752708829,
+          "duration" : 17190
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "53376a0b72335e86",
+        "name" : "addingItemInWishlist",
+        "title" : "Adding item in wishlist",
+        "time" : {
+          "start" : 1472752708834,
+          "stop" : 1472752726444,
+          "duration" : 17610
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7552717bea94eac0",
+        "name" : "proceedToCheckOutTest",
+        "title" : "Proceed to check out test",
+        "time" : {
+          "start" : 1472752726448,
+          "stop" : 1472752763829,
+          "duration" : 37381
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "5b83983aa6e505b8",
+  "name" : "DeleteItemFromShoppingCartTest",
+  "title" : "Delete item from shopping cart test",
+  "time" : {
+    "start" : 1472752691639,
+    "stop" : 1472752708829,
+    "duration" : 17190
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "53a60ea7a6db9813",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "(0)",
+    "source" : "5d223443-0707-4e40-bb83-c0ea5077b9a3-attachment",
+    "type" : "image/pmg",
+    "size" : 2886141,
+    "uid" : "5ce8e39cceb31758"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "WIN-31VA3KNSDRQ"
+  }, {
+    "name" : "thread",
+    "value" : "7048@WIN-31VA3KNSDRQ.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

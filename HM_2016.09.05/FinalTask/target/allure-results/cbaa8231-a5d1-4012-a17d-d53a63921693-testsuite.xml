@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1472752478550" stop="1472752767277" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Surefire suite : Surefire test</name>
+    <title>Surefire suite : Surefire test</title>
+    <test-cases>
+        <test-case start="1472752509563" stop="1472752527654" status="passed">
+            <name>searchWomenBlouseTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="a92a7fb8-a5fb-45fc-a171-e848b0d2d888-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752527686" stop="1472752544350" status="passed">
+            <name>searchWomenTshortsTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="6ac58e0e-be28-4a91-8a21-0665cdb13ce6-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752544354" stop="1472752567458" status="passed">
+            <name>shareProductWithFriendTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="51ebdb53-7df3-457e-92b5-584de16230a5-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752567473" stop="1472752606614" status="passed">
+            <name>creatingNewWishListTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="ef74818f-fb3b-458d-89d4-a3ec1a3a2236-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752606619" stop="1472752632810" status="passed">
+            <name>failedChangeUserInformationTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="d5eae760-8bf7-4ec7-89bc-25541c325d95-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752632816" stop="1472752658131" status="passed">
+            <name>registrationTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="483ec821-514d-44ea-af2c-d6fd9cbe4dc6-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752658139" stop="1472752674941" status="passed">
+            <name>failedToSendMessageTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="ef12315c-99f6-45e7-9a91-c6c1ce5ccd82-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752674945" stop="1472752691625" status="passed">
+            <name>sendMessageTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="e7fe2425-3cd4-4ddd-903b-42975ff7a970-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752691639" stop="1472752708829" status="passed">
+            <name>DeleteItemFromShoppingCartTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="5d223443-0707-4e40-bb83-c0ea5077b9a3-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752708834" stop="1472752726444" status="passed">
+            <name>addingItemInWishlist</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="16894121-d089-4d7d-a074-82917c4a6312-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472752726448" stop="1472752763829" status="passed">
+            <name>proceedToCheckOutTest</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="469758a1-9ec6-40d1-b802-813c91d93c9f-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="7048@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="288597" started-at="2016-09-01T17:54:38Z" finished-at="2016-09-01T17:59:27Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="288597" started-at="2016-09-01T17:54:38Z" finished-at="2016-09-01T17:59:27Z">
+      <class name="TestsShopping">
+        <test-method status="PASS" signature="DeleteItemFromShoppingCartTest()[pri:0, instance:TestsShopping@c446b14]" name="DeleteItemFromShoppingCartTest" duration-ms="5921" started-at="2016-09-01T20:58:11Z" finished-at="2016-09-01T20:58:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteItemFromShoppingCartTest -->
+        <test-method status="PASS" signature="addingItemInWishlist()[pri:0, instance:TestsShopping@c446b14]" name="addingItemInWishlist" duration-ms="6430" started-at="2016-09-01T20:58:28Z" finished-at="2016-09-01T20:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingItemInWishlist -->
+        <test-method status="PASS" signature="proceedToCheckOutTest()[pri:0, instance:TestsShopping@c446b14]" name="proceedToCheckOutTest" duration-ms="24959" started-at="2016-09-01T20:58:46Z" finished-at="2016-09-01T20:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckOutTest -->
+      </class> <!-- TestsShopping -->
+      <class name="SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SearchTest@783efb48]" name="setUp" is-config="true" duration-ms="30232" started-at="2016-09-01T20:54:38Z" finished-at="2016-09-01T20:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchWomenBlouseTest()[pri:0, instance:SearchTest@783efb48]" name="searchWomenBlouseTest" duration-ms="5644" started-at="2016-09-01T20:55:09Z" finished-at="2016-09-01T20:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWomenBlouseTest -->
+        <test-method status="PASS" signature="searchWomenTshortsTest()[pri:0, instance:SearchTest@783efb48]" name="searchWomenTshortsTest" duration-ms="5456" started-at="2016-09-01T20:55:27Z" finished-at="2016-09-01T20:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWomenTshortsTest -->
+        <test-method status="PASS" signature="shareProductWithFriendTest()[pri:0, instance:SearchTest@783efb48]" name="shareProductWithFriendTest" duration-ms="9703" started-at="2016-09-01T20:55:44Z" finished-at="2016-09-01T20:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shareProductWithFriendTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SearchTest@783efb48]" name="tearDown" is-config="true" duration-ms="3280" started-at="2016-09-01T20:59:23Z" finished-at="2016-09-01T20:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SearchTest -->
+      <class name="TestsAccount">
+        <test-method status="PASS" signature="creatingNewWishListTest()[pri:0, instance:TestsAccount@5d235104]" name="creatingNewWishListTest" duration-ms="26868" started-at="2016-09-01T20:56:07Z" finished-at="2016-09-01T20:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingNewWishListTest -->
+        <test-method status="PASS" signature="failedChangeUserInformationTest()[pri:0, instance:TestsAccount@5d235104]" name="failedChangeUserInformationTest" duration-ms="14016" started-at="2016-09-01T20:56:46Z" finished-at="2016-09-01T20:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedChangeUserInformationTest -->
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:TestsAccount@5d235104]" name="registrationTest" duration-ms="12917" started-at="2016-09-01T20:57:12Z" finished-at="2016-09-01T20:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- TestsAccount -->
+      <class name="TestsContactUs">
+        <test-method status="PASS" signature="failedToSendMessageTest()[pri:0, instance:TestsContactUs@4e8e8621]" name="failedToSendMessageTest" duration-ms="5852" started-at="2016-09-01T20:57:38Z" finished-at="2016-09-01T20:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedToSendMessageTest -->
+        <test-method status="PASS" signature="sendMessageTest()[pri:0, instance:TestsContactUs@4e8e8621]" name="sendMessageTest" duration-ms="5308" started-at="2016-09-01T20:57:54Z" finished-at="2016-09-01T20:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMessageTest -->
+      </class> <!-- TestsContactUs -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

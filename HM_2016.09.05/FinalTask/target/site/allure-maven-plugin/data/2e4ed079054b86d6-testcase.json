@@ -1,0 +1,53 @@
+{
+  "uid" : "2e4ed079054b86d6",
+  "name" : "failedChangeUserInformationTest",
+  "title" : "Failed change user information test",
+  "time" : {
+    "start" : 1472752606619,
+    "stop" : 1472752632810,
+    "duration" : 26191
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "53a60ea7a6db9813",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "(0)",
+    "source" : "d5eae760-8bf7-4ec7-89bc-25541c325d95-attachment",
+    "type" : "image/pmg",
+    "size" : 2886157,
+    "uid" : "e69e5be2caac29d5"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "WIN-31VA3KNSDRQ"
+  }, {
+    "name" : "thread",
+    "value" : "7048@WIN-31VA3KNSDRQ.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

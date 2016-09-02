@@ -1,0 +1,115 @@
+{
+  "time" : {
+    "start" : 1472804927293,
+    "stop" : 1472804927490,
+    "duration" : 197
+  },
+  "testSuites" : [ {
+    "uid" : "c9482f9a442d0cd2",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test",
+    "time" : {
+      "start" : 1472804927293,
+      "stop" : 1472804927490,
+      "duration" : 197
+    },
+    "statistic" : {
+      "total" : 8,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 7,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "489d20f2c3f5d154",
+      "name" : "setUp",
+      "title" : "Set up",
+      "time" : {
+        "start" : 1472804927293,
+        "stop" : 1472804927318,
+        "duration" : 25
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "9b56a2625322df07",
+      "name" : "sendLetterToSecondEmail[firstSubject]",
+      "title" : "Send letter to second email [firstSubject]",
+      "time" : {
+        "start" : 1472804927471,
+        "stop" : 1472804927475,
+        "duration" : 4
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "99a86d7fab5539c6",
+      "name" : "sendLetterToSecondEmail[secondSubject]",
+      "title" : "Send letter to second email [secondSubject]",
+      "time" : {
+        "start" : 1472804927478,
+        "stop" : 1472804927478,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "2beb2a6f11bd81b4",
+      "name" : "sendLetterToSecondEmail[thirdSubject]",
+      "title" : "Send letter to second email [thirdSubject]",
+      "time" : {
+        "start" : 1472804927479,
+        "stop" : 1472804927480,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "17607e653f540a24",
+      "name" : "sendLetterToYourself[firstSubject]",
+      "title" : "Send letter to yourself [firstSubject]",
+      "time" : {
+        "start" : 1472804927482,
+        "stop" : 1472804927483,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "b5f79664cad60568",
+      "name" : "sendLetterToYourself[secondSubject]",
+      "title" : "Send letter to yourself [secondSubject]",
+      "time" : {
+        "start" : 1472804927483,
+        "stop" : 1472804927484,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "b948cbc30032b598",
+      "name" : "sendLetterToYourself[thirdSubject]",
+      "title" : "Send letter to yourself [thirdSubject]",
+      "time" : {
+        "start" : 1472804927485,
+        "stop" : 1472804927485,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    }, {
+      "uid" : "31f721b39ee20361",
+      "name" : "tearDown",
+      "title" : "Tear down",
+      "time" : {
+        "start" : 1472804927490,
+        "stop" : 1472804927490,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "CANCELED"
+    } ]
+  } ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1472813903880" stop="1472814129367" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : TUT.BY</name>
+    <title>Default Suite : TUT.BY</title>
+    <test-cases>
+        <test-case start="1472813920894" stop="1472813991201" status="passed">
+            <name>sendLetterToYourself[firstSubject]</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="93af99c3-9eb3-4f85-a500-b36030e6037e-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="5084@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472813991257" stop="1472814056262" status="passed">
+            <name>sendLetterToYourself[secondSubject]</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="b5e8fe7e-3918-4cd0-9ff1-5cc4d63a3ded-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="5084@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1472814056442" stop="1472814120929" status="passed">
+            <name>sendLetterToYourself[thirdSubject]</name>
+            <steps/>
+            <attachments>
+                <attachment title="(0)" source="ec7fda32-e8c1-4d2c-9936-bac0364a8996-attachment" type="image/pmg"/>
+            </attachments>
+            <labels>
+                <label name="host" value="WIN-31VA3KNSDRQ"/>
+                <label name="thread" value="5084@WIN-31VA3KNSDRQ.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
